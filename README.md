@@ -1,6 +1,6 @@
 ### Olá Mundo :D
 
-- 🎓 Futuro cientista de dados!
+- 🎓 Cientista de Dados!
 - 📚 Cursando DataScience e estagiando na Buser. Bora pintar o mundo de rosa?!
 
 <div align="center">
