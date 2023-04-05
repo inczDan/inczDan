@@ -1,7 +1,7 @@
 ### Olá Mundo :D
 
 - 🎓 Cientista de Dados!
-- 📚 Cursando DataScience e estagiando na Buser. Bora pintar o mundo de rosa?!
+- 📚 Cursando DataScience e em busca de novos desafios!
 
 <div align="center">
   <a href="https://github.com/inczDan">
