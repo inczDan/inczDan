@@ -1,7 +1,7 @@
 ### Olá Mundo :D
 
-- 🎓 Cientista de Dados!
-- 📚 Cursando DataScience e em busca de novos desafios!
+- 🎓  Dev FullStack com conhecimentos em Ciencia de Dados!
+- 📚 Cursando Analise e Desenvolvimento de Sistemas e em busca de novos desafios!
 
 <div align="center">
   <a href="https://github.com/inczDan">
