@@ -1,6 +1,6 @@
 ### Olá Mundo :D
 
-- 🎓  Dev FullStack com conhecimentos em Ciencia de Dados!
+- 🎓  Desenvolvedor Back-end.
 - 📚 Cursando Analise e Desenvolvimento de Sistemas e em busca de novos desafios!
 
 <div align="center">
