@@ -1,4 +1,4 @@
-### Olá Mundo :D
+### Olá :)
 
 - 🎓  Desenvolvedor Back-end.
 - 📚 Cursando Analise e Desenvolvimento de Sistemas e em busca de novos desafios!
