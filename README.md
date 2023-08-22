@@ -1,7 +1,15 @@
-### Olá :)
+### Olá! :wave:
+Bem vindo(a) ao meu github! Me chamo Daniel, mas pode chamar só de Dani, prazer!!
+Sou quase um nômade, de São Paulo à qualquer lugar onde haja um desafio ou nova aventura. Minha jornada começou na administração, e há pouco mais de um ano mergulhei fundo no processo de migração para tecnologia, que é onde venho me especializando hoje! :revolving_hearts:
 
-- 🎓  Desenvolvedor Back-end.
-- 📚 Cursando Analise e Desenvolvimento de Sistemas e em busca de novos desafios!
+Atualmente, estou prestes a adicionar um novo troféu:   
+- 📚 tecnólogo em Análise e Desenvolvimento de Sistemas.
+ 
+Também faço parte do programa de estudos Ifood 1000 em parceria com a Cubos Academy, onde estou me especializando como: 
+- 🎓  Desenvolvedor Back-end com Node.js :rocket:
+
+
+Dentro da tecnologia, trabalhei em projetos de Ciência de Dados, Engenharia de Dados e Desenvolvimento de Software como Fullstack. Aprecio a versatilidade dessa abordagem, mantendo uma perspectiva voltada para dados, permitindo insights diferenciados e a oportunidade de atuar de maneira multidisciplinar.
 
 <div align="center">
   <a href="https://github.com/inczDan">
