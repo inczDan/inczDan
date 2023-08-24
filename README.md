@@ -6,7 +6,7 @@ Atualmente, estou prestes a adicionar um novo troféu:
 - 📚 tecnólogo em Análise e Desenvolvimento de Sistemas.
  
 Também faço parte do programa de estudos Ifood 1000 em parceria com a Cubos Academy, onde estou me especializando como: 
-- 🎓  Desenvolvedor Back-end com Node.js :rocket:
+- 🎓  Desenvolvedor Back-end com Node.js como principal tecnologia :rocket:
 
 
 Dentro da tecnologia, trabalhei em projetos de Ciência de Dados, Engenharia de Dados e Desenvolvimento de Software como Fullstack. Aprecio a versatilidade dessa abordagem, mantendo uma perspectiva voltada para dados, permitindo insights diferenciados e a oportunidade de atuar de maneira multidisciplinar.
