@@ -1,5 +1,5 @@
 ### Olá! :wave:
-Bem vindo(a) ao meu github! Me chamo Daniel, mas pode chamar só de Dani, prazer!!
+Bem vindo(a) ao meu github! Me chamo Daniel, mas pode chamar só de Dani, prazer!!  
 Sou quase um nômade, de São Paulo à qualquer lugar onde haja um desafio ou nova aventura. Minha jornada começou na administração, e há pouco mais de um ano mergulhei fundo no processo de migração para tecnologia, que é onde venho me especializando hoje! :revolving_hearts:
 
 Atualmente, estou prestes a adicionar um novo troféu:   
