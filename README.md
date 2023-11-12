@@ -39,6 +39,7 @@ Dentro da tecnologia, trabalhei em projetos de Ciência de Dados, Engenharia de 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Postgressql" height="60" widht="70"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+ <img align="center" alt="Postgressql" height="60" widht="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 
 </div>
   
