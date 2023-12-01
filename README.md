@@ -5,7 +5,7 @@ Sou quase um nômade, de São Paulo à qualquer lugar onde haja um desafio ou no
 Atualmente, estou prestes a adicionar um novo troféu:   
 - 📚 tecnólogo em Análise e Desenvolvimento de Sistemas.
  
-Também faço parte do programa de estudos Ifood 1000 em parceria com a Cubos Academy, onde estou me especializando como: 
+Também faço parte do programa de estudos Ifood 1000 em parceria com a Cubos Academy, onde me especializei como: 
 - 🎓  Desenvolvedor Back-end com Node.js como principal tecnologia :rocket:
 
 
